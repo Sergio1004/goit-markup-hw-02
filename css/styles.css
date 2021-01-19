@@ -11,6 +11,10 @@ body {
   color: var(--main-color);
 }
 
+ul {
+  list-style: none;
+}
+
 /* ============== COMPONENTS ============== */
 
 .visually-hidden {
